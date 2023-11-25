@@ -1,7 +1,5 @@
----
----
-
-# Gita Anand
+# DSC180A Methodology 5
+Gita Anand
 gianand@ucsd.edu
 
 ## Section B12
