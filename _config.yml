@@ -6,3 +6,8 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
