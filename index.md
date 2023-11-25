@@ -1,6 +1,10 @@
 Gita Anand
+
 gianand@ucsd.edu
-B12 Yusu Wang/Gal Mishne
+
+Section B12
+
+Yusu Wang/Gal Mishne
 
 1. What is the most interesting topic covered in your domain this quarter?
 
