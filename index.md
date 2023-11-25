@@ -1,8 +1,7 @@
-# DSC180A Methodology 5  
+## DSC180A Methodology 5  
 Gita Anand  
-gianand@ucsd.edu
-
-## Section B12
+gianand@ucsd.edu  
+Section B12
 Yusu Wang/Gal Mishne
 
 **What is the most interesting topic covered in your domain this quarter?**
